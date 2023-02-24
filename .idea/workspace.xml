@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="15a3ab83-5fc6-4836-bc29-e078bb22e3b3" name="Changes" comment="Create folder" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LuW2rXR4w5gXR6JWL79O8dC5kt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/QE_Eka-Fahrika-Nariswari/QE_Eka-Fahrika-Nariswari",
+    "settings.editor.selected.configurable": "settings.sync"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "Markdown",
+      "PLAIN_TEXT"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\QE_Eka-Fahrika-Nariswari\1_Software Testing as a Career Path &amp; Intro to Testing\2_Version-Control-(Git)\Praktikum" />
+      <recent name="D:\QE_Eka-Fahrika-Nariswari\1_Software Testing as a Career Path &amp; Intro to Testing\14_Testing-in-CI-CD-Pipeline-(Eksplorasi)" />
+      <recent name="D:\QE_Eka-Fahrika-Nariswari\1_Software Testing as a Career Path &amp; Intro to Testing\13_Mobile-Testing-with-Serenity-(Eksplorasi)" />
+      <recent name="D:\QE_Eka-Fahrika-Nariswari\1_Software Testing as a Career Path &amp; Intro to Testing\12_Fundamental-Performance-Test-&amp;-Performance-Testing-with-JMeter-(Eksplorasi)" />
+      <recent name="D:\QE_Eka-Fahrika-Nariswari\1_Software Testing as a Career Path &amp; Intro to Testing\11_Web-Programming-&amp;-Testing" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15a3ab83-5fc6-4836-bc29-e078bb22e3b3" name="Changes" comment="" />
+      <created>1676721244082</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676721244082</updated>
+    </task>
+    <task id="LOCAL-00001" summary="1_Software Testing as a Career Path &amp; Intro to Testing">
+      <created>1676732348691</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676732348692</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1_Software Testing as a Career Path &amp; Intro to Testing">
+      <created>1676902868898</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676902868898</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Create folder">
+      <created>1677224379848</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677224379848</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1_Software Testing as a Career Path &amp; Intro to Testing" />
+    <MESSAGE value="Create folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create folder" />
+  </component>
+</project>
