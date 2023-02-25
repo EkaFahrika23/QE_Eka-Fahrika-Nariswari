@@ -5,23 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15a3ab83-5fc6-4836-bc29-e078bb22e3b3" name="Changes" comment="Create folder">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Testing-Documentation-&amp;-Test-Case-&amp;-Tracking-Management-Tools/Screenshot/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_RESTful-API-Introduction-&amp;-Testing/Screenshot/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QE_Eka-Fahrika-Nariswari.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10_RESTful-API-Testing-with-REST-Assured/Praktikum/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/4_Agile-Testing/Screenshot/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10_RESTful-API-Testing-with-REST-Assured/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11_Web-Programming-&amp;-Testing/Praktikum/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/6_Basic-Programming-&amp;-OOP/Screenshot/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11_Web-Programming-&amp;-Testing/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12_Fundamental-Performance-Test-&amp;-Performance-Testing-with-JMeter-(Eksplorasi)/Praktikum/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/5_Basic-Linux-Command-(Eksplorasi)/Screenshot/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12_Fundamental-Performance-Test-&amp;-Performance-Testing-with-JMeter-(Eksplorasi)/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/13_Mobile-Testing-with-Serenity-(Eksplorasi)/Praktikum/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/7_Iterable-&amp;-Map-Data-Structure-(Eksplorasi)/Screenshot/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13_Mobile-Testing-with-Serenity-(Eksplorasi)/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/14_Testing-in-CI-CD-Pipeline-(Eksplorasi)/Praktikum/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/14_Testing-in-CI-CD-Pipeline-(Eksplorasi)/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/9_From-Manual-to-Automation-Testing-&amp;-BDD/Praktikum/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/9_From-Manual-to-Automation-Testing-&amp;-BDD/README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677225059119</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Create folder">
+      <created>1677324444382</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1677324444382</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
