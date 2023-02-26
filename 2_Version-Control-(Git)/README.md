@@ -12,7 +12,7 @@ Version Control System terdiri dari 3 yaitu :
 Git dapat diinstal di MAC, Windows, dan Linux, pada materi ini dipelajari cara-cara instalasi Git pada masing-masing perangkat.
 
 ### Materi 3 : Setting Git
-Ada beberapa syntax yang dapat digunakan untuk setting Git. Diantaranya yaitu git init, clone, config, dan lain-lain.
+Ada beberapa perintah yang dapat digunakan untuk setting Git. Diantaranya yaitu git init, clone, config, dan lain-lain.
 Untuk merubah perubahan kode dari directory ke ripository dilakukan beberapa langkah diantaranya :
 1. git commit
 2. git push
