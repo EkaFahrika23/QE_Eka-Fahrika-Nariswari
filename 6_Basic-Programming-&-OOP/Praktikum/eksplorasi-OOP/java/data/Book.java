@@ -1,4 +1,4 @@
-package org.alterra.data;
+package data;
 
 import java.util.UUID;
 

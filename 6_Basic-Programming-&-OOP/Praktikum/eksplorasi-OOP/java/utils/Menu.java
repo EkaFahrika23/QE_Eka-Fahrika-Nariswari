@@ -1,4 +1,4 @@
-package org.alterra.utils;
+package utils;
 
 public class Menu {
     public static void showMenu() {

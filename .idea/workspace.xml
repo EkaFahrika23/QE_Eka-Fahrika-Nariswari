@@ -6,9 +6,13 @@
   <component name="ChangeListManager">
     <list default="true" id="15a3ab83-5fc6-4836-bc29-e078bb22e3b3" name="Changes" comment="Create folder">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_Agile-Testing/Praktikum/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_Agile-Testing/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/4_Agile-Testing/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_Agile-Testing/Screenshot/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_Basic-Programming-&amp;-OOP/Praktikum/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_Basic-Programming-&amp;-OOP/Praktikum/eksplorasi-OOP/java/data/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/6_Basic-Programming-&amp;-OOP/Praktikum/eksplorasi-OOP/java/data/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_Basic-Programming-&amp;-OOP/Praktikum/eksplorasi-OOP/java/data/Books.java" beforeDir="false" afterPath="$PROJECT_DIR$/6_Basic-Programming-&amp;-OOP/Praktikum/eksplorasi-OOP/java/data/Books.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_Basic-Programming-&amp;-OOP/Praktikum/eksplorasi-OOP/java/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/6_Basic-Programming-&amp;-OOP/Praktikum/eksplorasi-OOP/java/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_Basic-Programming-&amp;-OOP/Praktikum/eksplorasi-OOP/java/utils/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/6_Basic-Programming-&amp;-OOP/Praktikum/eksplorasi-OOP/java/utils/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_Basic-Programming-&amp;-OOP/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/6_Basic-Programming-&amp;-OOP/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QE_Eka-Fahrika-Nariswari.iml" beforeDir="false" afterPath="$PROJECT_DIR$/QE_Eka-Fahrika-Nariswari.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,30 +48,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/QE_Eka-Fahrika-Nariswari/QE_Eka-Fahrika-Nariswari&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.scopes&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "D:/QE_Eka-Fahrika-Nariswari/QE_Eka-Fahrika-Nariswari/6_Basic-Programming-&-OOP/Praktikum/eksplorasi-OOP/java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.scopes"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;Markdown&quot;,
-      &quot;PLAIN_TEXT&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JavaFX",
+      "JAVA",
+      "Markdown",
+      "PLAIN_TEXT"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\QE_Eka-Fahrika-Nariswari\QE_Eka-Fahrika-Nariswari\6_Basic-Programming-&amp;-OOP\Praktikum\eksplorasi-OOP\java" />
+      <recent name="D:\QE_Eka-Fahrika-Nariswari\QE_Eka-Fahrika-Nariswari\.idea" />
+      <recent name="D:\QE_Eka-Fahrika-Nariswari\QE_Eka-Fahrika-Nariswari\6_Basic-Programming-&amp;-OOP\Praktikum\Introduction_java" />
       <recent name="D:\QE_Eka-Fahrika-Nariswari\QE_Eka-Fahrika-Nariswari\8_RESTful-API-Introduction-&amp;-Testing\Screenshot" />
       <recent name="D:\QE_Eka-Fahrika-Nariswari\QE_Eka-Fahrika-Nariswari\7_Iterable-&amp;-Map-Data-Structure-(Eksplorasi)\Screenshot" />
-      <recent name="D:\QE_Eka-Fahrika-Nariswari\QE_Eka-Fahrika-Nariswari\6_Basic-Programming-&amp;-OOP\Screenshot" />
-      <recent name="D:\QE_Eka-Fahrika-Nariswari\QE_Eka-Fahrika-Nariswari\5_Basic-Linux-Command-(Eksplorasi)\Screenshot" />
-      <recent name="D:\QE_Eka-Fahrika-Nariswari\QE_Eka-Fahrika-Nariswari\4_Agile-Testing\Screenshot" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\QE_Eka-Fahrika-Nariswari\QE_Eka-Fahrika-Nariswari\3_Testing-Documentation-&amp;-Test-Case-&amp;-Tracking-Management-Tools\Screenshot" />
@@ -77,7 +85,72 @@
       <recent name="D:\QE_Eka-Fahrika-Nariswari\1_Software Testing as a Career Path &amp; Intro to Testing\12_Fundamental-Performance-Test-&amp;-Performance-Testing-with-JMeter-(Eksplorasi)" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="QE_Eka-Fahrika-Nariswari" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="enkripsi_sederhana" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enkripsi.enkripsi_sederhana" />
+      <module name="QE_Eka-Fahrika-Nariswari" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="enkripsi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kalkulator.main" />
+      <module name="QE_Eka-Fahrika-Nariswari" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kalkulator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pola_XZY" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pola_xyz.pola_XZY" />
+      <module name="QE_Eka-Fahrika-Nariswari" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pola_xyz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="product" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="info_produk.product" />
+      <module name="QE_Eka-Fahrika-Nariswari" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="info_produk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
         <option name="Make" enabled="true" />
@@ -89,6 +162,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.enkripsi_sederhana" />
+        <item itemvalue="Application.pola_XZY" />
+        <item itemvalue="Application.product" />
+        <item itemvalue="Application.main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">

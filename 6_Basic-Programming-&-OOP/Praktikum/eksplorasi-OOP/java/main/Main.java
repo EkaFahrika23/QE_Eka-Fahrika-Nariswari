@@ -1,10 +1,10 @@
-package alterra;
+package main;
 
-import org.alterra.data.Books;
+import data.Books;
 
 import java.util.Scanner;
 
-import static org.alterr.utils.Menu.showMenu;
+import static utils.Menu.showMenu;
 
 public class Main {
 
@@ -37,7 +37,7 @@ public class Main {
                     books.deleteBook(input.nextLine());
                     break;
                 case 6:
-                    System.out.println("Good bye!");
+                    System.out.println("bye...");
                     exit = true;
                     break;
                 default:
