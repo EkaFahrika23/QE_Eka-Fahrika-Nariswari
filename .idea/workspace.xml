@@ -6,13 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="15a3ab83-5fc6-4836-bc29-e078bb22e3b3" name="Changes" comment="Create folder">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_Basic-Programming-&amp;-OOP/Praktikum/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_Basic-Programming-&amp;-OOP/Praktikum/eksplorasi-OOP/java/data/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/6_Basic-Programming-&amp;-OOP/Praktikum/eksplorasi-OOP/java/data/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_Basic-Programming-&amp;-OOP/Praktikum/eksplorasi-OOP/java/data/Books.java" beforeDir="false" afterPath="$PROJECT_DIR$/6_Basic-Programming-&amp;-OOP/Praktikum/eksplorasi-OOP/java/data/Books.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_Basic-Programming-&amp;-OOP/Praktikum/eksplorasi-OOP/java/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/6_Basic-Programming-&amp;-OOP/Praktikum/eksplorasi-OOP/java/main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_Basic-Programming-&amp;-OOP/Praktikum/eksplorasi-OOP/java/utils/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/6_Basic-Programming-&amp;-OOP/Praktikum/eksplorasi-OOP/java/utils/Menu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_Basic-Programming-&amp;-OOP/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/6_Basic-Programming-&amp;-OOP/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QE_Eka-Fahrika-Nariswari.iml" beforeDir="false" afterPath="$PROJECT_DIR$/QE_Eka-Fahrika-Nariswari.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8_RESTful-API-Introduction-&amp;-Testing/Praktikum/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8_RESTful-API-Introduction-&amp;-Testing/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/8_RESTful-API-Introduction-&amp;-Testing/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,27 +43,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "D:/QE_Eka-Fahrika-Nariswari/QE_Eka-Fahrika-Nariswari/6_Basic-Programming-&-OOP/Praktikum/eksplorasi-OOP/java",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "project.scopes"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/QE_Eka-Fahrika-Nariswari/QE_Eka-Fahrika-Nariswari&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.scopes&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "JavaFX",
-      "JAVA",
-      "Markdown",
-      "PLAIN_TEXT"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;JavaFX&quot;,
+      &quot;JAVA&quot;,
+      &quot;Markdown&quot;,
+      &quot;PLAIN_TEXT&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\QE_Eka-Fahrika-Nariswari\QE_Eka-Fahrika-Nariswari\6_Basic-Programming-&amp;-OOP\Praktikum\eksplorasi-OOP\java" />
