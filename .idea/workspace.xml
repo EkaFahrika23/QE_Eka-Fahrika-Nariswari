@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15a3ab83-5fc6-4836-bc29-e078bb22e3b3" name="Changes" comment="Create folder">
-      <change afterPath="$PROJECT_DIR$/9_From-Manual-to-Automation-Testing-&amp;-Behaviour-Driven-Development/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_RESTful-API-Testing-with-REST-Assured/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9_From-Manual-to-Automation-Testing-&amp;-Behaviour-Driven-Development/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/9_From-Manual-to-Automation-Testing-&amp;-Behaviour-Driven-Development/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,11 +77,11 @@
       <recent name="D:\QE_Eka-Fahrika-Nariswari\QE_Eka-Fahrika-Nariswari\7_Iterable-&amp;-Map-Data-Structure-(Eksplorasi)\Screenshot" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\QE_Eka-Fahrika-Nariswari\QE_Eka-Fahrika-Nariswari\10_RESTful-API-Testing-with-REST-Assured" />
       <recent name="D:\QE_Eka-Fahrika-Nariswari\QE_Eka-Fahrika-Nariswari\9_From-Manual-to-Automation-Testing-&amp;-Behaviour-Driven-Development" />
       <recent name="D:\QE_Eka-Fahrika-Nariswari\QE_Eka-Fahrika-Nariswari\3_Testing-Documentation-&amp;-Test-Case-&amp;-Tracking-Management-Tools\Screenshot" />
       <recent name="D:\QE_Eka-Fahrika-Nariswari\1_Software Testing as a Career Path &amp; Intro to Testing\2_Version-Control-(Git)\Praktikum" />
       <recent name="D:\QE_Eka-Fahrika-Nariswari\1_Software Testing as a Career Path &amp; Intro to Testing\14_Testing-in-CI-CD-Pipeline-(Eksplorasi)" />
-      <recent name="D:\QE_Eka-Fahrika-Nariswari\1_Software Testing as a Career Path &amp; Intro to Testing\13_Mobile-Testing-with-Serenity-(Eksplorasi)" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Main">
